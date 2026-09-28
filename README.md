@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Swaroop Kalli:
 I’m currently working on backend projects and experimenting with distributed systems. <br>I’m looking to collaborate on interesting software and open-source projects.<br>I love working with Python, C++, FastAPI, PostgreSQL, Kafka, and Flutter.<br>Building things end-to-end and understanding what happens when they break is one of my greatest strengths.<br>Currently learning Agentic AI, LLM based applications, backend development, and System Design.
 
 
