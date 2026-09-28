@@ -38,6 +38,6 @@ I’m currently working on backend projects and experimenting with distributed s
 - Built policy generation and validation flows to support decentralized traffic-management decisions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=swaroopkalli&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
